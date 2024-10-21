@@ -5,10 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+![Screenshot_20241021-131325](https://github.com/user-attachments/assets/7254e0ba-7144-4f3c-aeb8-a5f158e0ed26)
 
-A few resource![Screenshot_20241021-095706](https://github.com/user-attachments/assets/403c6117-d132-44aa-b805-0ff5c2c380dd)
-s to get you started if this is your first Flutter project:
-![Screenshot_20241021-095810](https://github.com/user-attachments/assets/65dc7362-9b24-4550-ac42-570d3b761b84)
+![Screenshot_20241021-131312](https://github.com/user-attachments/assets/7d3a4c40-e2ae-49b5-89bc-5e548ce898ca)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
