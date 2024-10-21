@@ -523,7 +523,7 @@ class HomeScreen extends StatelessWidget {
           const Text(
             'Shorts',
             style: TextStyle(
-                fontSize: 18, fontWeight: FontWeight.bold, color: Colors.black),
+                fontSize: 18, fontWeight: FontWeight.bold, color: Colors.white),
           ),
           const SizedBox(height: 8),
           GridView.builder(

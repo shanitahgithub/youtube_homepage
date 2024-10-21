@@ -139,8 +139,8 @@ class YouTubeApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'YouTube Homepage',
-      theme: ThemeData.light().copyWith(
-        scaffoldBackgroundColor: Colors.white,
+      theme: ThemeData.dark().copyWith(
+        scaffoldBackgroundColor: Colors.black,
       ),
       home: HomeScreen(),
     );

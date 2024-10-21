@@ -209,7 +209,7 @@ class VideoCard extends StatelessWidget {
             maxLines: 2,
             overflow: TextOverflow.ellipsis,
             style: const TextStyle(
-                fontWeight: FontWeight.bold, fontSize: 17, color: Colors.black),
+                fontWeight: FontWeight.bold, fontSize: 17, color: Colors.white),
           ),
           const SizedBox(height: 4),
 

@@ -52,9 +52,9 @@ class _CustomBottomNavigationBarState extends State<CustomBottomNavigationBar> {
   @override
   Widget build(BuildContext context) {
     return BottomNavigationBar(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.black,
       selectedItemColor: Colors.red,
-      unselectedItemColor: const Color.fromARGB(255, 8, 8, 8),
+      unselectedItemColor: const Color.fromARGB(242, 250, 248, 248),
       type: BottomNavigationBarType.fixed, // Ensures labels are always visible
       items: const [
         BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
