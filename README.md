@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-- [Lab: Write your fi![Screenshot_20241021-131312](https://github.com/user-attachments/assets/66e2ff8a-d8bd-4f6a-9477-2e5f97a3ff3a)
+- ![Screenshot_20241021-131312](https://github.com/user-attachments/assets/66e2ff8a-d8bd-4f6a-9477-2e5f97a3ff3a)
 - ![Screenshot_20241021-131325](https://github.com/user-attachments/assets/52e48e22-ded6-4642-92f8-17d55f698375)
 
 rst Flutter app](https://docs.flutter.dev/get-started/codelab)
